@@ -1,0 +1,1 @@
+die(obj_exship1);
