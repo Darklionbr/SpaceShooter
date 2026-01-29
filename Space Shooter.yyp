@@ -46,6 +46,7 @@
   "name":"Space Shooter",
   "resources":[
     {"id":{"name":"obj_eshoot1","path":"objects/obj_eshoot1/obj_eshoot1.yy",},},
+    {"id":{"name":"obj_eshoot3l","path":"objects/obj_eshoot3l/obj_eshoot3l.yy",},},
     {"id":{"name":"obj_explosionp","path":"objects/obj_explosionp/obj_explosionp.yy",},},
     {"id":{"name":"obj_exship1","path":"objects/obj_exship1/obj_exship1.yy",},},
     {"id":{"name":"obj_pdie","path":"objects/obj_pdie/obj_pdie.yy",},},
@@ -70,8 +71,8 @@
     {"id":{"name":"spr_bg3","path":"sprites/spr_bg3/spr_bg3.yy",},},
     {"id":{"name":"spr_bg4","path":"sprites/spr_bg4/spr_bg4.yy",},},
     {"id":{"name":"spr_eshoot1","path":"sprites/spr_eshoot1/spr_eshoot1.yy",},},
-    {"id":{"name":"spr_eshoot3","path":"sprites/spr_eshoot3/spr_eshoot3.yy",},},
-    {"id":{"name":"spr_eshoot3b","path":"sprites/spr_eshoot3b/spr_eshoot3b.yy",},},
+    {"id":{"name":"spr_eshoot3l","path":"sprites/spr_eshoot3l/spr_eshoot3l.yy",},},
+    {"id":{"name":"spr_eshoot3r","path":"sprites/spr_eshoot3r/spr_eshoot3r.yy",},},
     {"id":{"name":"spr_explosionp","path":"sprites/spr_explosionp/spr_explosionp.yy",},},
     {"id":{"name":"spr_exship1","path":"sprites/spr_exship1/spr_exship1.yy",},},
     {"id":{"name":"spr_lifegui","path":"sprites/spr_lifegui/spr_lifegui.yy",},},
