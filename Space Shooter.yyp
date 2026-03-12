@@ -47,6 +47,7 @@
   "resources":[
     {"id":{"name":"obj_eshoot1","path":"objects/obj_eshoot1/obj_eshoot1.yy",},},
     {"id":{"name":"obj_eshoot3l","path":"objects/obj_eshoot3l/obj_eshoot3l.yy",},},
+    {"id":{"name":"obj_eshoot3r","path":"objects/obj_eshoot3r/obj_eshoot3r.yy",},},
     {"id":{"name":"obj_explosionp","path":"objects/obj_explosionp/obj_explosionp.yy",},},
     {"id":{"name":"obj_exship1","path":"objects/obj_exship1/obj_exship1.yy",},},
     {"id":{"name":"obj_pdie","path":"objects/obj_pdie/obj_pdie.yy",},},
